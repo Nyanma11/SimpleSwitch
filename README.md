@@ -6,7 +6,7 @@ SimpleSwitchは、Windowsの外観モード（ライト/ダーク）を簡単に
 
 お好みの方法でダウンロード・インストールできます。
 
-[こちらのページ(https://github.com/Nyanma11/SimpleSwitch/releases/tag/v1.0.0)]からダウンロード後、解凍してお使いください。
+[こちらのページ](https://github.com/Nyanma11/SimpleSwitch/releases/tag/v1.0.0)からダウンロード後、解凍してお使いください。
 
 ## 使い方
 
