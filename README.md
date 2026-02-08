@@ -1,6 +1,6 @@
 # SimpleSwitch
 
-SimpleSwitchは、Windowsの外観モード（ライト/ダーク）を簡単に切り替えできるアプリです。
+SimpleSwitchは、Windowsの外観モード（ライト/ダーク）を簡単に切り替えることができるアプリです。
 
 ## インストール
 
