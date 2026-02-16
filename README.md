@@ -14,7 +14,7 @@ SimpleSwitchは、Windowsの外観モード（ライト/ダーク）を簡単に
 
 2. Windowsキー + R を押して「ファイル名を指定して実行」を開く。
 
-3. 以下のコマンドを入力し、実行 
+3. 以下の名前を入力し、「OK」をクリック。 
 
 ```Shell
 shell:startup
