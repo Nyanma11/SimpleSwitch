@@ -16,8 +16,8 @@ SimpleSwitchは、Windowsの外観モード（ライト/ダーク）を簡単に
 
 3. 以下のコマンドを入力し、実行 
 
- ```Shell
-   shell:startup
+```Shell
+shell:startup
 ```
 
 4. 開いたフォルダに、作成したショートカットを入れる。
