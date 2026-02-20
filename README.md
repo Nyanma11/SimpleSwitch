@@ -23,7 +23,8 @@ shell:startup
 4. 開いたフォルダに、作成したショートカットを入れる。
 
 ## 使い方
-<img width="293" height="143" alt="image" src="https://github.com/user-attachments/assets/8be08cf7-0a57-4535-aa53-9d2c74caca34" />
+![SimpleSwitchアイコン説明](https://github.com/user-attachments/assets/014c3efd-84f6-47ae-9a8d-812368738978)
+
 
 
 1. **アプリの起動**
