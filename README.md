@@ -23,8 +23,6 @@ shell:startup
 4. 開いたフォルダに、作成したショートカットを入れる。
 
 ## 使い方
-![SimpleSwitchアイコン説明](https://github.com/user-attachments/assets/014c3efd-84f6-47ae-9a8d-812368738978)
-
 
 
 1. **アプリの起動**
@@ -33,6 +31,8 @@ shell:startup
    >※ 起動後はタスクトレイ（画面右下の「^」の中）に隠れて常駐します。
 
 3. **外観モードの切り替え**
+
+   ![s-SimpleSwitchアイコン説明](https://github.com/user-attachments/assets/66d7c3c3-ff89-4467-b798-84a09155c7f3)
 
    タスクトレイの中にあるSimpleSwitchのアイコンをクリックして、外観モードを切り替えてください。
 
