@@ -17,15 +17,12 @@ SimpleSwitchは、Windowsの外観モード（ライト/ダーク）を簡単に
 
 3. **外観モードの切り替え**
 
-![s-スクリーンショット 2026-04-12 203120](https://github.com/user-attachments/assets/77cc6374-1835-4bbe-b5d9-d452761a51f8)
-
 
    タスクトレイの中にあるSimpleSwitchのアイコンをクリックして、外観モードを切り替えてください。
 
 4. **スケジュール機能の設定**
 
-   <img width="577" height="595" alt="image" src="https://github.com/user-attachments/assets/8b4c7289-dc8d-4471-8f45-ae25d304f5f9" />
-
+![s-スクリーンショット 2026-04-12 203120](https://github.com/user-attachments/assets/96a707cc-d60d-4b67-8f40-7d07915f7ece)
 
    タスクトレイの中のSimpleSwitchのアイコンを右クリックし、「設定」をクリックしてください。表示されたウィンドウから設定を行ってください。
 
