@@ -17,7 +17,8 @@ SimpleSwitchは、Windowsの外観モード（ライト/ダーク）を簡単に
 
 3. **外観モードの切り替え**
 
-   ![s-SimpleSwitchアイコン説明](https://github.com/user-attachments/assets/66d7c3c3-ff89-4467-b798-84a09155c7f3)
+![s-スクリーンショット 2026-04-12 203120](https://github.com/user-attachments/assets/77cc6374-1835-4bbe-b5d9-d452761a51f8)
+
 
    タスクトレイの中にあるSimpleSwitchのアイコンをクリックして、外観モードを切り替えてください。
 
